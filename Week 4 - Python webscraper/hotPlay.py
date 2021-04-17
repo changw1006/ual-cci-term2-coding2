@@ -20,7 +20,7 @@ def search_page(list_data,type):
             search_html = etree.HTML(search)
             details_url = search_html.xpath(".//a[@class='figure result_figure']/@href")[0]
             img_url = search_html.xpath(".//a[@class='figure result_figure']/img/@src")[0]
-            # 如果detail 不再url里边   另外逻辑处理
+            # If the detail is not in the url, the logic is handled separately
             # print(details_url)
             if "detail" not in details_url:
                 if "cover" in details_url:
