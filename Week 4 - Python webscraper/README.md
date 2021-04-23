@@ -2,6 +2,9 @@
 
 Chang Wang 20036997
 <br />
+
+WeTV is a very popular video site in China, similar to YouTube, where you can watch various Chinese dramas, movies and variety shows. I really enjoy watching TV series and variety shows on WeTV, so I wanted to use a crawler to grab video information about the most popular TV series and variety shows on WeTV. The [WeTV Hotlist] is a ranking of the hot videos that users are searching for, so I'm going to crawl today to find out what people like to watch on WeTV.
+
 <br />
 
 Pass the **url address** and **type** of the WeTV Hotlist into **main**
