@@ -1,17 +1,19 @@
 # Week4 - Python webscraper
 
 Chang Wang 20036997
-
-[[BLOG]](https://changw1006.wixsite.com/mysite/post/week4-python-webscraper)
-
 <br />
-
+<br />
 WeTV TV series Ranking
 https://v.qq.com/biu/ranks/?t=hotsearch&channel=tv 
+
+<img src="https://static.wixstatic.com/media/27541e_2152ad2683a7414090a5c8a507a994ad~mv2.jpg/v1/fill/w_1480,h_1767,al_c,q_90,usm_0.66_1.00_0.01/27541e_2152ad2683a7414090a5c8a507a994ad~mv2.webp" style="zoom: 50%;" />
+
+<br />
 
 WeTV Variety Ranking
 https://v.qq.com/biu/ranks/?t=hotsearch&channel=variety 
 
+<img src="https://static.wixstatic.com/media/27541e_9d7f51bca33540039a85e3cb612727bb~mv2.jpg/v1/fill/w_1480,h_1764,al_c,q_90,usm_0.66_1.00_0.01/27541e_9d7f51bca33540039a85e3cb612727bb~mv2.webp" style="zoom: 50%;" />
 <br />
 
 Pass the **url address** and **type** of the WeTV Hotlist into **main**
