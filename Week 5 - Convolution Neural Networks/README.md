@@ -88,6 +88,8 @@ test_x = torch.unsqueeze(test_data.test_data, dim=1).type(torch.FloatTensor)[:20
 test_y = test_data.test_labels[:2000]
 ````
 
+<br />
+
 ## **Convolution Neural Networks modules**
 
 A ````class```` is used to build a CNN model. The overall flow of this CNN is Convolution ````Conv2d```` -> Excitation ````ReLU```` -> Pooling, down-sampling ````MaxPooling```` -> Again -> Flattening of the multi-dimensional convolutional feature map -> Integration into a fully connected layer ````Linear```` -> Output.
