@@ -17,7 +17,7 @@ To make the image look more interesting, I added the two little balls from the e
 
 <br />
 
-## Next comes the code section.
+## Code section.
 
 ### main.cpp
 
