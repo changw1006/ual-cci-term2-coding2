@@ -160,14 +160,6 @@ for epoch in range(EPOCH):
         optimizer.zero_grad()           # clear gradients for this training step
         loss.backward()                 # backpropagation, compute gradients
         optimizer.step()                # apply gradients
-
-"""
-...
-Epoch:  0 | train loss: 0.0306 | test accuracy: 0.97
-Epoch:  0 | train loss: 0.0147 | test accuracy: 0.98
-Epoch:  0 | train loss: 0.0427 | test accuracy: 0.98
-Epoch:  0 | train loss: 0.0078 | test accuracy: 0.98
-"""
 ````
 
 <br />
