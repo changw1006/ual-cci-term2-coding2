@@ -1,6 +1,7 @@
 # Week2 - OF project
 
 Chang Wang 20036997
+
 <br />
 
 Let's start by looking at the results.
@@ -17,8 +18,6 @@ To make the image look more interesting, I added the two little balls from the e
 <br />
 
 ## Next comes the code section.
-
-<br />
 
 ### main.cpp
 
